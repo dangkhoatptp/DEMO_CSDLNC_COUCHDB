@@ -1,0 +1,40 @@
+/*===========Header============*/
+.logo {
+    height: 50px;
+}
+
+/*===========Content============*/
+
+.container {
+    margin-top: 30px;
+    max-width: 81%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card {
+    margin: 10px 5px;
+}
+.card-img-top {
+    height: 200px;
+}
+.card-title {
+    
+}
+.card-text {
+    height: 90px;
+}
+.btn {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+.btn-primary{
+    margin: 0 5px;
+    left: 0;
+}
+
+/*===========Create============*/
+
+.content{
+    width: 80%;
+}
