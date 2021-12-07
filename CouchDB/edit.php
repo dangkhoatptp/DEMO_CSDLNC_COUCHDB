@@ -125,7 +125,7 @@
                 
                 $response = curl_exec($ch);
 
-                // header("Location: index.php");
+                header("Location: index.php");
             }
         ?>
     </div>
